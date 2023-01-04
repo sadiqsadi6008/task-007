@@ -294,3 +294,61 @@ header section.head div.right ul li a.button {
 #working div.data div.right div.card h6 {
 }
 /* #working end */
+#content {
+}
+#content section.download {
+  display: flex;
+  justify-content: center;
+  padding: 50px 103px;
+}
+#content section.download div.left {
+  width: 55%;
+}
+#content section.download div.left div.image {
+  width: 70%;
+}
+#content section.download div.left div.image img {
+  display: block;
+  width: 100%;
+}
+#content section.download div.right {
+  width: 30%;
+  padding-top: 60px;
+}
+#content section.download div.right h2 {
+  margin-bottom: 20px;
+  margin-top: 60px;
+  font-size: 45px;
+  color: #000;
+}
+#content section.download div.right p {
+  margin-bottom: 50px;
+  color: #888398;
+  font-size: 16px;
+}
+#content section.download div.right div.store {
+  width: 70%;
+}
+#content section.download div.right div.store a {
+  display: flex;
+  align-items: center;
+  border: 1px solid #888398;
+  border-radius: 28px;
+  margin-bottom: 20px;
+  padding: 25px 20px;
+}
+#content section.download div.right div.store a:last-child {
+  margin-bottom: 0;
+}
+#content section.download div.right div.store a div {
+  width: 25%;
+}
+#content section.download div.right div.store a div img {
+  display: flex;
+  width: 100%;
+}
+#content section.download div.right div.store a small {
+  font-size: 20px;
+  margin-left: 20px;
+}
+/* #content end */
