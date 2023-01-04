@@ -150,3 +150,50 @@ header section.head div.right ul li a.button {
   border-radius: 8px;
 }
 /* header end */
+/* #spotlight */
+#spotlight {
+}
+#spotlight section.wrapper {
+}
+#spotlight section.container {
+  display: flex;
+  padding: 10px 0 100px;
+}
+#spotlight section.container div.left {
+  background: #f8f8fa;
+  width: 46%;
+  padding: 141px 84px;
+  border-radius: 8px 0 0 8px;
+}
+#spotlight section.container div.left small {
+  color: #888398;
+  font-size: 17px;
+  font-weight: 400;
+}
+#spotlight section.container div.left h3 {
+  font-size: 58px;
+  font-weight: bolder;
+  font-family: "Gordita";
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+#spotlight section.container div.left p {
+  color: #888398;
+  font-size: 17px;
+  margin-bottom: 30px;
+}
+#spotlight section.container div.left a.button {
+  display: inline-block;
+  background-image: linear-gradient(to right, #e45f83, #f67d71, #d473aa);
+  color: #fefefe;
+  padding: 12px 25px;
+  border-radius: 8px;
+}
+#spotlight section.container div.right {
+  width: 55%;
+}
+#spotlight section.container div.right img {
+  display: block;
+  width: 100%;
+}
+/* #spotlight end */
