@@ -84,6 +84,7 @@
     margin: 0 auto;
     max-width: 1440px;
   }
+  /* header starts */
   header {
 }
 header section.wrapper {
@@ -150,6 +151,7 @@ header section.head div.right ul li a.button {
   border-radius: 8px;
 }
 /* header end */
+
 /* #spotlight */
 #spotlight {
 }
@@ -198,6 +200,7 @@ header section.head div.right ul li a.button {
   width: 100%;
 }
 /* #spotlight end */
+
 /* workking  */
 #working {
 }
@@ -294,6 +297,8 @@ header section.head div.right ul li a.button {
 #working div.data div.right div.card h6 {
 }
 /* #working end */
+
+/* #content starts */
 #content {
 }
 #content section.download {
@@ -352,3 +357,221 @@ header section.head div.right ul li a.button {
   margin-left: 20px;
 }
 /* #content end */
+
+/* #banking start */
+#banking {
+}
+#banking section.connecting {
+  display: flex;
+  justify-content: right;
+}
+#banking section.connecting div.left {
+  padding-top: 60px;
+  width: 30%;
+  padding-left: 35px;
+}
+#banking section.connecting div.left h2 {
+  margin-bottom: 20px;
+  margin-top: 60px;
+  font-size: 45px;
+}
+#banking section.connecting div.left p {
+  margin-bottom: 50px;
+  color: #888398;
+  font-size: 16px;
+}
+#banking section.connecting div.left a.button {
+  display: inline-block;
+  border: 3px solid #e45f83;
+  border-radius: 12px;
+  padding: 15px 20px;
+  font-weight: bold;
+}
+#banking section.connecting div.right {
+  width: 55%;
+  padding-left: 168px;
+}
+#banking section.connecting div.right div.connecting {
+  width: 70%;
+}
+#banking section.connecting div.right div.connecting img {
+  display: block;
+  width: 100%;
+}
+#banking section.main div.bottom {
+  text-align: center;
+  padding: 100px;
+}
+#banking section.main div.bottom h2 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+#banking section.main div.bottom p {
+  margin-bottom: 50px;
+  color: #888398;
+  font-size: 16px;
+}
+#banking section.main div.bottom form {
+  position: relative;
+}
+#banking section.main div.bottom form input {
+  border: 1px solid #888398;
+  padding: 30px 20px;
+  border-radius: 12px;
+  width: 60%;
+  font-size: 17px;
+  color: #888398;
+}
+#banking section.main div.bottom form a.button {
+  display: inline-block;
+  background-image: linear-gradient(to right, #e45f83, #f67d71, #d473aa);
+  color: #fefefe;
+  padding: 24px 43px;
+  border-radius: 12px;
+  position: absolute;
+  right: 210px;
+  top: 6px;
+}
+/* #banking end*/
+
+/* footer */
+footer {
+  padding-bottom: 100px;
+}
+footer section.wrapper {
+}
+footer section.platform {
+  background: #f8f8fa;
+  padding: 100px;
+}
+footer section.platform div.top {
+  display: flex;
+  justify-content: space-between;
+}
+footer section.platform div.top div.one {
+  width: 20%;
+}
+footer section.platform div.top div.one div.fastpay {
+  width: 65%;
+}
+footer section.platform div.top div.one div.fastpay img {
+  display: block;
+  width: 100%;
+}
+footer section.platform div.top div.one p {
+  color: #888398;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+footer section.platform div.top div.one ul {
+  display: flex;
+}
+footer section.platform div.top div.one ul li {
+  margin-right: 33px;
+}
+footer section.platform div.top div.one ul li:last-child {
+  margin-right: 0;
+}
+footer section.platform div.top div.one ul li div.facebook {
+  background: #ececee;
+  padding: 10px 14px;
+  border-radius: 10px;
+}
+footer section.platform div.top div.one ul li div.facebook a {
+}
+footer section.platform div.top div.one ul li div.facebook a img {
+  display: block;
+  width: 100%;
+}
+
+footer section.platform div.top div.one ul li div.twitter {
+  background: #ececee;
+  padding: 10px;
+  border-radius: 10px;
+}
+footer section.platform div.top div.one ul li div.twitter a {
+}
+footer section.platform div.top div.one ul li div.twitter a img {
+  display: block;
+  width: 100%;
+}
+footer section.platform div.top div.one ul li div.linkedin {
+  background: #ececee;
+  padding: 10px 13px;
+  border-radius: 10px;
+}
+footer section.platform div.top div.one ul li div.linkedin a {
+}
+footer section.platform div.top div.one ul li div.linkedin a img {
+  display: block;
+  width: 100%;
+}
+footer section.platform div.two h4 {
+  margin-bottom: 42px;
+}
+footer section.platform div.two h6 {
+  margin-bottom: 20px;
+}
+footer section.platform div.two h6 a {
+  color: #888398;
+  font-size: 14px;
+}
+footer section.platform div.two h6 a:hover {
+  color: #000;
+}
+footer section.platform div.two h6:last-child {
+  margin-bottom: 0;
+}
+footer section.platform div.three {
+}
+footer section.platform div.three h4 {
+  margin-bottom: 42px;
+}
+footer section.platform div.three h6 {
+  margin-bottom: 20px;
+}
+footer section.platform div.three h6 a {
+  color: #888398;
+  font-size: 14px;
+}
+footer section.platform div.three h6 a:hover {
+  color: #000;
+}
+footer section.platform div.three h6:last-child {
+  margin-bottom: 0;
+}
+footer section.platform div.four {
+}
+footer section.platform div.four h4 {
+  margin-bottom: 42px;
+}
+footer section.platform div.four h6 {
+  margin-bottom: 20px;
+}
+footer section.platform div.four h6 a {
+  color: #888398;
+  font-size: 14px;
+}
+footer section.platform div.four h6 a:hover {
+  color: #000;
+}
+footer section.platform div.four h6:last-child {
+  margin-bottom: 0;
+}
+footer section.platform div.bottom {
+}
+footer section.platform div.bottom p {
+  text-align: center;
+  color: #888398;
+  margin-top: 80px;
+}
+footer section.platform div.bottom p a {
+  color: #888398;
+}
+footer section.platform div.bottom p a:hover {
+  color: #000;
+}
+/* footer end */
+
+
