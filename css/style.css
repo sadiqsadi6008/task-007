@@ -20,8 +20,8 @@
   }
   @font-face {
     font-family: "Gordita";
-    src: url("fonts/Gordita-Medium.woff2") format("woff2"),
-      url("fonts/Gordita-Regular.woff") format("woff");
+    src: url("../fonts/Gordita-Medium.woff2") format("woff2"),
+      url("../fonts/Gordita-Regular.woff") format("woff");
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -29,15 +29,15 @@
   
   @font-face {
     font-family: "Gordita";
-    src: url("fonts/Gordita-Medium.woff2") format("woff2"),
-      url("fonts/Gordita-Medium.woff") format("woff");
+    src: url("../fonts/Gordita-Medium.woff2") format("woff2"),
+      url("../fonts/Gordita-Medium.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
   }
   
   body {
-    font-family: "Gordita", Arial, Helvetica, sans-serif;
+    font-family: "Gordita";
     font-size: 17px;
     color: #333;
     overflow-x: hidden;
@@ -176,6 +176,7 @@ header section.head div.right ul li a.button {
   font-family: "Gordita";
   margin-bottom: 20px;
   margin-top: 30px;
+  color: #000;
 }
 #spotlight section.container div.left p {
   color: #888398;
@@ -197,3 +198,99 @@ header section.head div.right ul li a.button {
   width: 100%;
 }
 /* #spotlight end */
+/* workking  */
+#working {
+}
+#working section.wrapper {
+}
+#working section.wrapper div.top {
+  text-align: center;
+}
+#working section.wrapper div.top h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #000;
+}
+#working section.wrapper div.top p {
+  width: 37%;
+  margin: 0 auto;
+}
+#working section.wrapper div.data {
+  padding: 50px;
+  background: url("Assets/how\ it\ work\ -\ path.svg") no-repeat;
+  background-position-x: 151px;
+  background-position-y: 111px;
+  background-size: 78%;
+  display: flex;
+}
+#working section.wrapper div.data div.bottom h5 {
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: #000;
+}
+#working section.wrapper div.data div.left {
+  width: 33%;
+  padding-top: 25px;
+}
+#working section.wrapper div.data div.left div.information {
+}
+#working section.wrapper div.data div.left div.information img {
+  display: block;
+  width: 100%;
+}
+#working section.wrapper div.data div.left div.bottom {
+  padding-top: 60px;
+  width: 57%;
+  margin: 0 auto;
+}
+#working section.wrapper div.data div.left div.bottom h5 {
+}
+#working section.wrapper div.data div.left div.bottom p {
+}
+#working div.data div.middle {
+  width: 33%;
+}
+#working div.data div.middle div.Data_Secure {
+}
+#working div.data div.middle div.Data_Secure img {
+  display: block;
+  width: 100%;
+}
+#working div.data div.middle div.bottom {
+  width: 61%;
+  margin: 0 auto;
+}
+#working div.data div.middle div.bottom h5 {
+}
+#working div.data div.middle div.bottom p {
+}
+#working div.data div.right {
+  width: 33%;
+  position: relative;
+}
+#working div.data div.right div.Add_cards {
+  padding-top: 22px;
+}
+#working div.data div.right div.Add_cards img {
+  display: block;
+  width: 100%;
+}
+#working div.data div.right div.bottom {
+  padding-top: 58px;
+  width: 66%;
+  margin: 0 auto;
+}
+#working div.data div.right div.bottom h5 {
+}
+#working div.data div.right div.bottom p {
+}
+#working div.data div.right div.card {
+  position: absolute;
+  top: 159px;
+  left: 130px;
+  font-size: 18px;
+  color: #000;
+}
+#working div.data div.right div.card h6 {
+}
+/* #working end */
