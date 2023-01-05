@@ -574,4 +574,447 @@ footer section.platform div.bottom p a:hover {
 }
 /* footer end */
 
+/* responsive */
+/* @media all and (max-width: 1380px) */
+@media all and (max-width: 1380px) {
+  #spotlight section.container div.left {
+    width: 42%;
+  }
+  #spotlight section.container div.right {
+    width: 58%;
+  }
+  #working section.wrapper div.data {
+    background-position-x: 134px;
+    background-position-y: 108px;
+  }
+  #working div.data div.right div.card {
+    top: 150px;
+    left: 127px;
+    font-size: 19px;
+  }
+  #working section.wrapper div.data div.left div.bottom {
+    padding-top: 49px;
+  }
+  #working div.data div.right div.bottom {
+    padding-top: 48px;
+  }
+  #content section.download div.right {
+    padding-top: 20px;
+  }
+  #content section.download div.right div.store a {
+    padding: 16px 16px;
+  }
+  #banking section.connecting div.left {
+    padding-top: 30px;
+  }
+  #banking section.connecting div.left h2 {
+    font-size: 41px;
+  }
+  #content section.download div.right h2 {
+    font-size: 41px;
+  }
+  #banking section.main div.bottom form a.button {
+    padding: 22px 43px;
+    top: 9px;
+  }
+}
+/* @media all and (max-width: 1380px) end */
 
+/* @media all and (max-width: 1280px) */
+@media all and (max-width: 1280px) {
+  header section.head ul li a {
+    font-size: 16px;
+  }
+  #spotlight section.container div.left {
+    width: 45%;
+    padding: 75px 60px;
+  }
+  #spotlight section.container div.right {
+    width: 55%;
+  }
+  #spotlight section.container div.left h3 {
+    font-size: 48px;
+  }
+  #working section.wrapper div.top p {
+    width: 45%;
+  }
+  #working section.wrapper div.data {
+    padding: 44px;
+  }
+  #working section.wrapper div.data {
+    background-position-x: 105px;
+    background-position-y: 105px;
+  }
+  #working div.data div.middle {
+    width: 35%;
+  }
+  #working div.data div.right div.card {
+    top: 130px;
+    left: 104px;
+    font-size: 15px;
+  }
+  #working div.data div.right {
+    width: 35%;
+  }
+  #working section.wrapper div.data div.bottom h5 {
+    margin-bottom: 25px;
+    font-size: 27px;
+  }
+  #working section.wrapper div.data div.bottom p {
+    font-size: 13px;
+  }
+  #working div.data div.right div.bottom {
+    padding-top: 37px;
+  }
+  #content section.download div.left {
+    width: 60%;
+  }
+  #content section.download div.right {
+    width: 40%;
+    padding-top: 40px;
+  }
+  #content section.download div.right h2 {
+    font-size: 32px;
+  }
+  #content section.download div.left div.image {
+    width: 80%;
+  }
+  #content section.download div.right p {
+    margin-bottom: 43px;
+    font-size: 14px;
+  }
+  #content section.download div.right div.store a small {
+    font-size: 18px;
+  }
+  #content section.download div.right div.store a div {
+    width: 25%;
+  }
+  #content section.download div.right div.store a {
+    padding: 16px 16px;
+  }
+  #content section.download div.left {
+    width: 60%;
+  }
+  #content section.download div.right {
+    width: 40%;
+  }
+  #banking section.connecting div.right div.connecting {
+    width: 80%;
+  }
+  #banking section.connecting div.left h2 {
+    font-size: 32px;
+  }
+  #banking section.main div.bottom h2 {
+    font-size: 45px;
+  }
+  #banking section.main div.bottom p {
+    margin-bottom: 30px;
+  }
+  #banking section.main div.bottom form input {
+    border: 1px solid #888398;
+    padding: 25px 18px;
+    width: 88%;
+    font-size: 14px;
+  }
+  #banking section.main div.bottom form a.button {
+    padding: 14px 22px;
+    right: 88px;
+  }
+  footer section.platform {
+    padding: 50px;
+  }
+  #banking section.main div.bottom form input {
+    width: 80%;
+  }
+}
+/* @media all and (max-width: 1280px) end*/
+
+/* @media all and (max-width: 1080px) */
+@media all and (max-width: 1080px) {
+  header section.head div.middle nav ul li {
+    margin-right: 20px;
+  }
+  header section.head {
+    padding: 30px 0;
+  }
+  #spotlight section.container div.left h3 {
+    font-size: 38px;
+  }
+  #spotlight section.container div.left a.button {
+    padding: 12px 25px;
+  }
+  #working div.data div.right div.card {
+    top: 122px;
+    left: 98px;
+}
+  #working section.wrapper div.data div.bottom h5 {
+    font-size: 26px;
+  }
+  #working section.wrapper div.data div.left div.bottom {
+    width: 61%;
+  }
+  #banking section.connecting div.left {
+    width: 34%;
+  }
+  #banking section.connecting div.right div.connecting {
+    width: 92%;
+  }
+  footer section.platform div.top div.one {
+    width: 25%;
+  }
+}
+/* @media all and (max-width: 1080px) end */
+
+
+/* @media all and (max-width: 980px) */
+@media all and (max-width: 980px) {
+  header section.head div.middle nav {
+    display: none;
+  }
+  #spotlight section.container div.left {
+    padding: 47px 62px;
+  }
+  #spotlight section.container div.left small {
+    font-size: 14px;
+  }
+  #spotlight section.container div.left h3 {
+    font-size: 28px;
+  }
+  #spotlight section.container div.left p {
+    font-size: 14px;
+  }
+  #spotlight section.container div.left a.button {
+    padding: 12px 17px;
+    font-size: 14px;
+  }
+  #working section.wrapper div.top p {
+    width: 62%;
+  }
+  #working section.wrapper div.data {
+    background-size: 72%;
+  }
+  #working div.data div.right div.card {
+    top: 97px;
+    left: 75px;
+    font-size: 12px;
+  }
+  #working section.wrapper div.data div.bottom h5 {
+    font-size: 20px;
+  }
+  #working section.wrapper div.data div.left div.bottom {
+    padding-top: 28px;
+  }
+  #working div.data div.right div.bottom {
+    padding-top: 20px;
+  }
+  #working section.wrapper div.data div.bottom p {
+    font-size: 10px;
+  }
+  #working section.wrapper div.top p {
+    width: 54%;
+    font-size: 14px;
+  }
+  #content section.download div.right {
+    padding-top: 40px;
+  }
+  #content section.download div.right h2 {
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  #content section.download div.right p {
+    margin-bottom: 30px;
+    font-size: 10px;
+  }
+  #content section.download div.right div.store a small {
+    font-size: 8px;
+  }
+  #content section.download div.right div.store a {
+    padding: 8px 13px;
+    border-radius: 17px;
+  }
+  #banking section.connecting div.left {
+    width: 27%;
+  }
+  #banking section.connecting div.left h2 {
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  #banking section.connecting div.left p {
+    margin-bottom: 23px;
+    font-size: 10px;
+  }
+  #banking section.connecting div.left a.button {
+    font-size: 14px;
+    border-radius: 12px;
+    padding: 10px 14px;
+  }
+  #banking section.main div.bottom h2 {
+    font-size: 35px;
+  }
+  #banking section.main div.bottom p {
+    margin-bottom: 23px;
+    font-size: 14px;
+  }
+  #banking section.main div.bottom form input {
+    padding: 19px 18px;
+    width: 100%;
+  }
+  #banking section.main div.bottom form a.button {
+    padding: 11px 18px;
+    right: 9px;
+    top: 7px;
+  }
+  footer section.platform div.top div.one {
+    width: 30%;
+  }
+  footer section.platform div.top div.one p {
+    font-size: 13px;
+  }
+  footer section.platform div.two h4 {
+    margin-bottom: 23px;
+  }
+  footer section.platform div.three h4 {
+    margin-bottom: 28px;
+  }
+  footer section.platform div.four h4 {
+    margin-bottom: 28px;
+  }
+  footer section.platform div.two h6 {
+    margin-bottom: 10px;
+  }
+  footer section.platform div.two h6 a {
+    font-size: 10px;
+  }
+  footer section.platform div.three h6 {
+    margin-bottom: 10px;
+    font-size: 4px;
+  }
+  footer section.platform div.three h6 a {
+    font-size: 10px;
+  }
+  footer section.platform div.four h6 {
+    margin-bottom: 10px;
+  }
+  footer section.platform div.four h6 a {
+    font-size: 10px;
+  }
+  footer section.platform div.bottom p {
+    font-size: 14px;
+  }
+}
+/* @media all and (max-width: 980px) end*/
+
+
+/* @media all and (max-width: 768px) */
+@media all and (max-width: 768px) {
+  #spotlight section.container {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #spotlight section.container div.left {
+    width: 75%;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  #spotlight section.container div.right {
+    width: 75%;
+  }
+  #spotlight section.container div.right img {
+    border-radius: 8px;
+  }
+  #working section.wrapper div.top p {
+    width: 65%;
+  }
+  #working section.wrapper div.data {
+    background: none;
+    flex-wrap: wrap;
+    background: #f8f8fa;
+    border-radius: 8px;
+  }
+  #working section.wrapper div.top {
+    padding-bottom: 50px;
+  }
+  #working section.wrapper div.data div.left {
+    width: 100%;
+    display: flex;
+    padding-top: 0px;
+  }
+  #working section.wrapper div.data div.left div.bottom {
+    padding-top: 35px;
+  }
+  #working section.wrapper div.data div.middle {
+    width: 100%;
+    display: flex;
+  }
+  #working section.wrapper div.data div.right {
+    width: 100%;
+    display: flex;
+  }
+
+  #working div.data div.right div.bottom {
+    padding-top: 47px;
+  }
+  #working section.wrapper div.data div.bottom p {
+    font-size: 14px;
+  }
+  #working div.data div.middle div.bottom {
+    padding-top: 75px;
+    width: 64%;
+  }
+  #working div.data div.right div.Add_cards {
+    padding-top: 0px;
+  }
+  #working div.data div.right div.card {
+    top: 109px;
+    left: 109px;
+    font-size: 16px;
+  }
+  #content section.wrapper {
+    width: 100%;
+  }
+  #content section.download {
+    padding: 65px 70px;
+  }
+  #content section.download div.left div.image {
+    width: 94%;
+  }
+  #content section.download div.right {
+    padding-top: 60px;
+  }
+  #content section.download div.right div.store a {
+    padding: 3px 7px;
+    border-radius: 17px;
+  }
+  #banking section.wrapper {
+    width: 100%;
+  }
+  #banking section.connecting {
+    justify-content: center;
+  }
+  #banking section.connecting div.left {
+    width: 30%;
+  }
+  #banking section.connecting div.right {
+    width: 50%;
+    padding-left: 60px;
+  }
+  #banking section.connecting div.right div.connecting {
+    width: 98%;
+  }
+  #banking section.connecting div.left {
+    padding-top: 78px;
+  }
+  #banking section.main div.bottom h2 {
+    font-size: 30px;
+  }
+  #banking section.main div.bottom p {
+    font-size: 12px;
+  }
+  footer section.platform {
+    padding: 25px;
+  }
+  footer section.platform div.top div.one {
+    width: 35%;
+  }
+}
+/* @media all and (max-width: 768px)end */
